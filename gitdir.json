@@ -1,19 +1,19 @@
 {
-    "version": "1.1.4",
+    "version": "1.1.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Ameen-Sha-Cheerangan/GitDir/releases/download/v1.1.4/gitdir_Windows_x86_64.zip",
+            "url": "https://github.com/Ameen-Sha-Cheerangan/GitDir/releases/download/v1.1.5/gitdir_Windows_x86_64.zip",
             "bin": [
                 "gitdir.exe"
             ],
-            "hash": "c8a90c08b7e562af3e5d137b6ad9c33a897a1b21b61a3228d0ef96a837efe6b2"
+            "hash": "b572a12d864d280b2574378e77caff77cf51a1a2f1f9b7a508358b987129fc9f"
         },
         "arm64": {
-            "url": "https://github.com/Ameen-Sha-Cheerangan/GitDir/releases/download/v1.1.4/gitdir_Windows_arm64.zip",
+            "url": "https://github.com/Ameen-Sha-Cheerangan/GitDir/releases/download/v1.1.5/gitdir_Windows_arm64.zip",
             "bin": [
                 "gitdir.exe"
             ],
-            "hash": "48d7b70e0eec670155556e051e89aadf84de1a7a8cceed16bed41ce7ea2875ad"
+            "hash": "dc5ae4ba10c010c66fb0979691dc085f5766492e559e3b99fa488d8cb22f7c91"
         }
     },
     "homepage": "https://github.com/Ameen-Sha-Cheerangan/GitDir",
